@@ -1,0 +1,90 @@
+PYTHON;
+
+Python un lenguaje de programacion que tiene una forma de escribirse elegante y simple te ayudara a formar practicas
+que nesesitara como un desarrolador en el futuro. un lenguaje que esta en todos lados, la programacion esta en todos lados.
+Pero que es programar es dar instruccines a la computadora para que resulva un problema:
+
+por que Python?:
+Frontend:
+IOT:
+Inteligencia Artificial:
+Backend:
+DevOps:
+Data Science:
+Videojuegos:
+Desarrollo Móvil:
+
+-Frontend: Se encarga de llevar el diseño de una aplicación o sitio web a código
+-IOT: Se encarga de darle la capacidad de conectarse a internet a elementos que pueden estar a nuestro alrededor.
+-Inteligencia Artificial: Se encarga de enseñarle a la computadora a resolver un determinado problema sin la 
+necesidad de estar involucrados constantemente.
+-Backend: Se encarga de crear la lógica con la cual va a funcionar una determinada aplicación y que va a ser almacenada en un servidor.
+-DevOps: Se encarga de manejar la información almacenada en la nube de una determinada aplicación.
+-Data Science: Se encarga de tomar la información relevante de un determinado ambiente y poder sacar conclusiones al respecto.
+-Videojuegos: Se encarga de combinar la programación, el diseño y la música para generar grandes experiencias a los usuarios.
+-Desarrollo Móvil: Se encarga de crear aplicaciones que serán almacenadas en la PlayStore o AppStore, y que podremos hacer 
+uso de ellas desde nuestros smartphones
+
+Python funciona mejor en estoy campos: IOT, Inteligencia Artificial, Backend, Data Science
+
+Ventajas:
+-Facil
+-Elegante
+-Buenas Practicas
+
+El Algoritmo:
+
+Una serie de pasos para resulver un problema,
+Ejemplo: hacer ejercicio, si quieres estar saludable hay que tener una buena forma ¿como consiguirla? haciendo rutinas, actividades 
+como levantar pesas entretar, comer alimentarnos sanamente, y descarsar el dia. todo eso lo vas a repetir otra vez cada dia ¿como termino?
+hazta que te quedes satisfecho con los resultados que hayas alcansado algo real en tu salud. eso es un algoritmo una serie de pasos para resulver
+un problema ¿pero cual fue el problema? mi salud, mi peso tener un cuerpo mas saludable.
+El Algoritmo tiene caracteristicas especiales, que es finito dede tener un incio y un final. tener un incio claro y un final claro, una serie
+de pasos que nos lleve ese principio a ese final. siempre un Algoritmo es Finito no tiene pasos definidos siempre tenemos una cantidad de limitado
+de pasos para poder resulver ese problema,
+Un algoritmo No Es Ambiguo. no podemos tener pasos que se signifique algo en un contexto y que en otro contexto se signifique otra cosa, en le algoritmo
+necesitamos tener cada paso con una finalidad en particular, tiene que hacer una cosa de manera unirica, "que uno se signifique algo y en otro otra cosa"
+
+
+---Tres herramientas para escribir código:---
+
+4.1. Editor de código: Facilita la escritura del código, ya que da ciertas ayudas o resalta palabras claves del 
+lenguaje de programación. Entre ellas están: Visual Studio Code, Sublime text, Atom, Pycharm.
+El que recomienda y el que se va a utilizar es Visual Studio Code, porque es el más popular 
+en la industria de tecnología y varios desarrolladores lo utilizan.
+
+4.2. Consola: Programa que sirve para manejar la computadora sin necesidad de utilizar la interfaz gráfica.
+Por ejemplo: CMD, power Shell, cmder.
+Se utilizará cmder, porque tiene comandos compatibles con sistemas operativos del tipo Unix y Windows.
+
+4.3. Lenguaje de programación: Python https://cmder.net/
+
+Básicos para usar la consola:
+
+Ctrl + L = Limpiar pantalla
+CD = Change Directory "escribes cd para iniciar y buscar los archivos"
+.. = Carpeta padre "detrosedes"
+Cd .. = Cambiar de directorio a la carpeta padre
+ls = list "te permite ver los archivos de las carpetas"
+mkdir = Make directory "crear directirio: creacion de carpetas"
+touch = para crear archivos
+Alt + 92 =
+Nota tambien puedes abrir el codigo que estas haciendo con el CMD o "Cmder". cd:\"user"\"usuario"\Documents\
+pero tiene que estar en la capeta donde esta el codigo Python, una vez localizado el archivo .py escribes en la consola (cmd o Cmder)
+"python (nombre_del_archivo).py" y das "enter" se tendra que ejecutar el codigo Python.   Reload Windows
+
+https://aprendeconalf.es/docencia/python/ejercicios/
+
+Palabras reservadas en Python
+Cómo menciamos en vídes anteriores, existen ciertas palabras las cuales no podemos utilizar para nombrar a nuestras variables, funciones o clases. A este tipo de palabras las conoceremos como palabras reservadas. Y estan diseñadas para realizar tareas especificar por parte del lenguajes.
+
+Aquí el listado de todas ellas:
+
+False	class	is	return
+None	continue	lambda	try
+True	def	nonlocal	while
+and	del	not	with
+as	elif	or	yield
+assert	else	pass	*
+break	except	raise	*
+En el curso trabajaremos con la mayoría de las palabras reservadas, sin embargo, si quieres conocer todas ellas, puedes consultar el siguiente link
